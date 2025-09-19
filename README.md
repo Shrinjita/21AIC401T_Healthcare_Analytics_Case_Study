@@ -54,7 +54,7 @@ The analysis utilizes the [Diabetes Health Indicators Dataset](https://www.kaggl
 
 ## Statistical Methods Used
 
-- **Software:** Excel, SPSS, Python (pandas, scipy, statsmodels)
+- **Software:** Colab Notebooks, Excel, SPSS, Python (pandas, scipy, statsmodels)
 - **Tests:** One-sample t-test, Independent samples t-test (Welch's), One-way ANOVA with Tukey HSD post-hoc
 - **Assumption Testing:** Levene's test for equality of variances
 
