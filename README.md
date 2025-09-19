@@ -1,7 +1,4 @@
-# 21AIC401T_Healthcare_Analytics_Case_Study
-
-## Project Title
-Statistical Analysis of Diabetes Health Indicators: A Comprehensive Study Using Inferential Statistics and Predictive Analytics
+# Statistical Analysis of Diabetes Health Indicators: A Comprehensive Study Using Inferential Statistics and Predictive Analytics
 
 ## Course
 21AIC401T - Inferential Statistics and Predictive Analytics
